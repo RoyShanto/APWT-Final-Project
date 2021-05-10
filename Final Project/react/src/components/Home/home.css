@@ -1,0 +1,32 @@
+.form {
+    position: relative;
+    margin: 5px;
+    padding: 5px;
+    background-color: #eee;
+    border: 1px solid #000;
+    width: 200px;
+    height: 100%;
+    border-radius: 5px;
+}
+
+.body_part1{
+    border:1px solid; 
+    width:200px; 
+    height:300px; 
+    margin-left:10px; 
+    margin-right:10px; 
+    margin-top:10px; 
+    border-radius: 5px; 
+    text-align: center; 
+    padding:5px; 
+    float:left;
+}
+
+.body_part2{
+    width:185px; 
+    padding:3px; 
+    margin-left:2px; 
+    background-color:black; 
+    color:white; 
+    border-radius: 5px;
+}
